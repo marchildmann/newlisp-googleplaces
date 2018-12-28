@@ -8,3 +8,4 @@ Todo
 * Update to new Google Places API parameters
 * Update pathes to libraries
 * Update to current newLISP version
+* Cloning to git repository
